@@ -1,0 +1,10 @@
+.git
+output/bin
+*.o
+*.so
+*.so.*
+*.a
+*.deb
+bin
+.bundle
+build64_release
